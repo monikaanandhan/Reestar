@@ -1,0 +1,43 @@
+.section-one{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding:10px;
+}    
+.briyani-section,.burger-section,.pizza-section,.shawarma-section{
+    display:inline-block;
+    border:solid black 3px;
+    margin: 0px;
+    
+}
+.items{
+    margin-right: 150px;
+    margin-left: 200px;
+    margin-top:10px;
+}
+.briyani-section__button,.burger-section__button,.pizza-section__button,.shawarma-section__button{
+    background-color: black;
+    color: white;
+    margin-left: 80px;
+    padding:5px;
+
+}
+
+.contact-section{
+    align-content: center;
+    background-color: black;
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-left:600px;
+    padding-bottom: 30px;
+}
+.send{
+    background-color: yellow;
+    color: black;
+    padding-left: 150px;
+    padding-right: 150px;
+    margin-right: 500px;
+    margin-left: 1px;
+    
+}
